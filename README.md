@@ -54,10 +54,6 @@ Se é tecnologia, eu protejo. Se quebrou, eu conserto. Se é impossível, eu ten
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vieiracode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiracode&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-### 🐍 Minha Contribuição Snake
-<div align="center">
-  <img src="https://github.com/vieiracode/vieiracode/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-</div>
 
 ### 📞 Contato
 <div align="left">
